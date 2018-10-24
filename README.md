@@ -8,7 +8,7 @@ Originally, this frontend has been built as part of the bachelor thesis of [@mpf
 
 The easiest way to get up and running with your own copy is clicking the `Deploy to Netlify` button below. It will clone the repository into your own account, and deploy the site to Netlify. It is going to use the default environmental variables specified under [configuration](#Configuration).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sensebox/openSenseMap)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mpfeil/openSenseMap)
 
 ## Configuration
 You can configure the API endpoint and/or map tiles using the following environmental variables:
